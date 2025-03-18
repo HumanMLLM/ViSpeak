@@ -23,6 +23,7 @@ Recent advances in Large Multi-modal Models (LMMs) are primarily focused on offl
 <p align="center">
     <img src="./asset/model.jpg" width="100%" height="100%">
 </p>
+
 ## 📈 Experimental Results
 
 #### 📍 Model Zoo

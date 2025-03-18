@@ -51,7 +51,9 @@ Recent advances in Large Multi-modal Models (LMMs) are primarily focused on offl
 <p align="center">
     <img src="./asset/vispeakbench.jpg" width="100%" height="100%">
 </p>
+
 ## 📐 Demo
+
 ```
 python demo.py --model_path /your/path/to/ViSpeak-s3/ --video demo.mp4
 ```

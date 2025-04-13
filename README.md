@@ -1,8 +1,8 @@
 # ViSpeak: Visual Instruction Feedback in Streaming Videos
 - Paper: [Arxiv](https://arxiv.org/abs/2503.12769)
 - ViSpeak-Bench: [GitHub](https://github.com/HumanMLLM/ViSpeak-Bench)
-- Huggingface: [ViSpeak-s2](https://huggingface.co/fushh7/ViSpeak-s2), [ViSpeak-s3](https://huggingface.co/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://huggingface.co/datasets/fushh7/ViSpeak-Instruct) (Coming Soon), [ViSpeak-Bench](https://huggingface.co/datasets/fushh7/ViSpeak-Bench) (Coming Soon)
-- ModelScope: [ViSpeak-s2](https://modelscope.cn/models/fushh7/ViSpeak-s2), [ViSpeak-s3](https://modelscope.cn/models/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://modelscope.cn/datasets/fushh7/ViSpeak-Instruct) (Coming Soon), [ViSpeak-Bench](https://modelscope.cn/datasets/fushh7/ViSpeak-Bench) (Coming Soon)
+- Huggingface: [ViSpeak-s2](https://huggingface.co/fushh7/ViSpeak-s2), [ViSpeak-s3](https://huggingface.co/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://huggingface.co/datasets/fushh7/ViSpeak-Instruct), [ViSpeak-Bench](https://huggingface.co/datasets/fushh7/ViSpeak-Bench)
+- ModelScope: [ViSpeak-s2](https://modelscope.cn/models/fushh7/ViSpeak-s2), [ViSpeak-s3](https://modelscope.cn/models/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://modelscope.cn/datasets/fushh7/ViSpeak-Instruct), [ViSpeak-Bench](https://modelscope.cn/datasets/fushh7/ViSpeak-Bench)
 
 ## 👀 ViSpeak Overview
 

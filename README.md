@@ -4,6 +4,13 @@
 - Huggingface: [ViSpeak-s2](https://huggingface.co/fushh7/ViSpeak-s2), [ViSpeak-s3](https://huggingface.co/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://huggingface.co/datasets/fushh7/ViSpeak-Instruct), [ViSpeak-Bench](https://huggingface.co/datasets/fushh7/ViSpeak-Bench)
 - ModelScope: [ViSpeak-s2](https://modelscope.cn/models/fushh7/ViSpeak-s2), [ViSpeak-s3](https://modelscope.cn/models/fushh7/ViSpeak-s3), [ViSpeak-Instruct](https://modelscope.cn/datasets/fushh7/ViSpeak-Instruct), [ViSpeak-Bench](https://modelscope.cn/datasets/fushh7/ViSpeak-Bench)
 
+
+## 🔥 News
+We are hiring self-motivated interns and research interns and conducting graduate recruitment in China. Please feel free to contact Tech Manager via WeChat (id: weixihan1)
+
+[2025.06.26] Our paper was accepted by ICCV 2025.
+
+
 ## 👀 ViSpeak Overview
 
 <p align="center">
